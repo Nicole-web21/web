@@ -1,0 +1,47 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:dimgrey;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-image:url('image.png');
+    color: rgb(243, 145, 18);
+    padding: 15PX;
+    text-align: center;
+}
+
+main{
+    padding: 20px;
+    background-color:gold;
+    text-align: center;
+}
+
+main h2{
+    font-size: 22px;
+    color: #1e1be6;
+}
+
+main p{
+    font-size: 18px;
+    color:#140101;
+    
+
+}
+footer{
+    text-align: center;
+    background-color: #333333;
+    color: #fff;
+    position: fixed;
+    padding: 10px;
+    width: 100%;
+}
+nav{
+    width: 60px;
+    padding: 10px;
+    height: 15px;
+    background-color: rgb(240, 199, 17);
+    text-decoration: none;
+    border-radius: 10px;
+}
