@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+   <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <title>Super Promoção</title>
+<link rel="stylesheet" href="pgpersona.css">
+</head>
+</body>
+    
+<header>
+    <nav> 
+        <a href="https://www.smartfit.com.br/planos">Planos</a>
+    </nav>
+    <h1>Smart Fit</h1>
+    <p>SUA, MINHA A NOSSA MUDANÇA!</p>
+    
+</header>
+<br> <br>
+<body>    
+   <main>
+    <section id ="Nosso foco">
+      <h2>Treinadores</h2>
+      <p>Temos o auxilio de um coach para juntamente com você cuidar da sua saúde, exercícios planejados para o seu objetivo, como hipertrofia, condicionamento físico, emagrecimento e muito mais;</p>
+    </section>
+   <br></br>
+
+     <section id ="Suplementos">
+        <h2>Suplementos</h2>
+        <p>Os suplementos que você precisa para acelerar seus resultados com qualidade Smart Fit.</p>
+      </section>
+    <br></br>
+   </main>
+       
+        <footer>
+        <p> &copy;2024 TODOS OS SEUS DIREITOS RESERTVADOS </p>
+    </footer>
+    
+
+</body>
+</html>
